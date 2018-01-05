@@ -1,9 +1,9 @@
 
-## Kirsty Ward
+# Kirsty Ward
 
 Kirsty_Ward@ncsu.edu
 
-# Overview
+### Overview
 Motivated, forward-thinking data scientist with a proven track record of successfully communicating challenging concepts to non-technical audiences through 4+ years of experience in scientific research. Strengths include:
 
 *	__Technical Skills__: Strong statistical knowledge with programming experience using SAS, SQL, R, and Python 
@@ -11,7 +11,7 @@ Motivated, forward-thinking data scientist with a proven track record of success
 *	__Communication__: Ability to communicate analytical findings through presentation, writing, and visualization 
 *	__Research__: Experience with research project design, data collection, and research methods
 
-# Education 
+### Education 
 May 2018 (expected)
 : **Master of Science in Analytics**; Institute for Advanced Analytics
 
@@ -24,7 +24,7 @@ May 2017
 May 2014
 **Bachelor of Science, Genetics** *cum laude*; NC State University 
 
-# Practicum Project
+### Practicum Project
 
 __Practicum Project: Elevate Credit__
 *	Serve as **Technical Lead** in 8-month project, work completed under non-disclosure agreement
@@ -32,18 +32,19 @@ __Practicum Project: Elevate Credit__
 *	Apply machine learning algorithms to reduce data dimensions and cluster customers into segments 
 *	Provide actionable, data-driven recommendations using customer segments to improve product performance 
 
-# Skills
+### Skills
 *	Languages:	Proficient in: SAS, SQL, R; 	Intermediate knowledge: Python 
 *	Software:  	Tableau, JMP, SAS Enterprise Miner, MS Office 
 
-# Certifications
+### Certifications
 *	SAS Certified Advanced Programmer for SAS 9 
 *	SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling 
 *	SAS Certified Predictive Modeler Using SAS Enterprise Miner 14
 *	Google Analytics Individual Qualification 
  
-# Professional Experience
-*Mackay Laboratory, NC State Genetics Program,	Raleigh, NC *
+### Professional Experience
+
+*Mackay Laboratory, NC State Genetics Program,	Raleigh, NC*
 
 **Research Technician**  	 May 2014 – May 2017 
 *	Executed independent, detail-oriented quantitative genetics research projects  
