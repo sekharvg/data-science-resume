@@ -1,0 +1,15 @@
+import numpy as npimport pandas as pd
+from sklearn import preprocessingX = pd.read_csv('H:/My Documents/Data_Science/datasets/titanic_train.csv')X.head(3)X = X.select_dtypes(include=[object])X.head(3)X.shape
+X.columns
+le = preprocessing.LabelEncoder()
+X['cabin'] = X['cabin'].factorize()[0]X['embarked'] = X['embarked'].factorize()[0]
+# 2/3. FIT AND TRANSFORM# use df.apply() to apply le.fit_transform to all columnsX_2 = X.apply(le.fit_transform)X_2.head()
+# TODO: create a OneHotEncoder object, and fit it to all of X
+# 1. INSTANTIATEenc = preprocessing.OneHotEncoder()
+# 2. FITenc.fit(X_2)
+# 3. Transformonehotlabels = enc.transform(X_2).toarray()onehotlabels.shape
+# as you can see, you've the same number of rows 891# but now you've so many more columns due to how we changed all the categorical data into numerical data
+
+
+onehotlabels
+type(onehotlabels)
